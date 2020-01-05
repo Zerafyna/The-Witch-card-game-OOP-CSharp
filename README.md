@@ -16,5 +16,6 @@ To see the gameplay please check out the [video](/TheWitch_Video.mp4).
 - When the Queen of spade was picked from your opponents hand all the cards in your hand are shuffled.
 
 ##   
-![Image](/pics/Deal.png)
-[More images](/pics/)
+![Game Image](/pics/Deal.PNG)
+
+[See more game images](/pics/)
