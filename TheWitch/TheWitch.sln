@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWitch", "TheWitch\TheWitch.csproj", "{F56F1D5F-02CB-4D97-B149-4ED0886A2236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TheWitchCardGame", "NBCC.CardGame\TheWitchCardGame.csproj", "{75EF6C29-4699-4B4C-9F16-B5436232B8AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F56F1D5F-02CB-4D97-B149-4ED0886A2236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F56F1D5F-02CB-4D97-B149-4ED0886A2236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F56F1D5F-02CB-4D97-B149-4ED0886A2236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F56F1D5F-02CB-4D97-B149-4ED0886A2236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75EF6C29-4699-4B4C-9F16-B5436232B8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75EF6C29-4699-4B4C-9F16-B5436232B8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75EF6C29-4699-4B4C-9F16-B5436232B8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75EF6C29-4699-4B4C-9F16-B5436232B8AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4261EBA9-A41E-485D-A2E6-46C242715A4E}
+	EndGlobalSection
+EndGlobal

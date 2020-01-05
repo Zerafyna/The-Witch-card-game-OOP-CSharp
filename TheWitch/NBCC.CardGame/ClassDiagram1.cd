@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="NBCC.CardGame.Card">
+    <Position X="1.75" Y="1.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAIAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Card.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBCC.CardGame.Deck">
+    <Position X="5.5" Y="1.25" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAiAAAAAAAAEAAAAAAEAAAEAA=</HashCode>
+      <FileName>Deck.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NBCC.CardGame.Hand">
+    <Position X="1" Y="3.25" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAgAQACAgAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Hand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="NBCC.CardGame.Suit">
+    <Position X="6" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAEAAAAAAAAABAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Types.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="NBCC.CardGame.FaceValue">
+    <Position X="8" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAggAAAEAAEAIAAAAAFBAAAAAgAAAgAAEE=</HashCode>
+      <FileName>Types.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
